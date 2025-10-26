@@ -63,3 +63,5 @@ LBBD_results.xlsx: Results of the LBBD method
 SBCs_constraints_results.xlsx: Results of using symmetry-breaking constraints
 
 Cuts_results.xlsx: Results of using different cuts
+
+Hueristic.xlsx: Results of using the proposed hueristic
